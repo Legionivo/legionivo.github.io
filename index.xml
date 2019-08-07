@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Life is too short for manual testing</title>
+    <link>https://legionivo.github.io/</link>
+    <description>Recent content on Life is too short for manual testing</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	<atom:link href="https://legionivo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Who is Andrey?</title>
+      <link>https://legionivo.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://legionivo.github.io/about/</guid>
+      <description>From one point, he’s just one of the 7 billionth people on Earth. From another point, you can see something special in him. You can see a true passion for software quality and engineering, genuine interest in new tools and practices, free mind and beating heart. From early childhood, Andrey knew that he would connect his life with IT - now he lives it. He considers himself a “student forever”, striving both to rely on his skills in the field of information technology and to stay up to date with the latest technologies due to constant professional development.</description>
+    </item>
+    
+  </channel>
+</rss>
