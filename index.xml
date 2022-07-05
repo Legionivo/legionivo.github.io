@@ -5,11 +5,7 @@
     <link>https://legionivo.github.io/</link>
     <description>Recent content on Life is too short for manual testing</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    
-	<atom:link href="https://legionivo.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en</language><atom:link href="https://legionivo.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Who is Andrey?</title>
       <link>https://legionivo.github.io/about/</link>
